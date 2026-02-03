@@ -5,17 +5,17 @@ Pros of Agile Development:
 Cons of Agile Development:
 1. Agile can be difficult to manage for large teams or projects due to frequent communication and coordination requirements.
 2. The lack of a fixed long-term plan can make cost and timeline estimation less predictable compared to non-Agile approaches.
-
-
-
-
-
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The Scrum Master is responsible for ensuring the Scrum process is followed correctly and helping the team work effectively. This includes removing impediments, facilitating Scrum ceremonies, and coaching the team on Agile and Scrum practices.
 
 The Product Owner is responsible for maximizing the value of the product. This includes defining and prioritizing the product backlog, clarifying requirements, and representing stakeholder and customer interests to the development team.
+
+
+
+
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Sprint Planning:
    - The team discusses which backlog items will be included in the sprint.
