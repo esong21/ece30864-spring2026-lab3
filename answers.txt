@@ -21,3 +21,11 @@ The Product Owner is responsible for maximizing the value of the product. This i
 3. Sprint Review:
    - The team demonstrates completed work to stakeholders.
    - Feedback is collected, and the product backlog may be updated based on that feedback.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+An Epic is a large body of work that represents a major feature or capability and is broken down into multiple smaller issues, such as stories or tasks.
+
+A Story represents a user-facing requirement that delivers value to the user and is typically written from the user’s perspective.
+
+A Bug represents a defect or problem in the system where existing functionality does not work as intended.
+
+A Task represents a unit of work that needs to be completed but does not necessarily deliver direct user value on its own.
