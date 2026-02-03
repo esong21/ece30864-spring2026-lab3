@@ -9,3 +9,15 @@ Cons of Agile Development:
 The Scrum Master is responsible for ensuring the Scrum process is followed correctly and helping the team work effectively. This includes removing impediments, facilitating Scrum ceremonies, and coaching the team on Agile and Scrum practices.
 
 The Product Owner is responsible for maximizing the value of the product. This includes defining and prioritizing the product backlog, clarifying requirements, and representing stakeholder and customer interests to the development team.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Sprint Planning:
+   - The team discusses which backlog items will be included in the sprint.
+   - The scope and goals of the sprint are defined, and tasks are estimated.
+
+2. Daily Scrum:
+   - Team members share what they worked on previously and what they plan to work on next.
+   - Any blockers or issues preventing progress are identified.
+
+3. Sprint Review:
+   - The team demonstrates completed work to stakeholders.
+   - Feedback is collected, and the product backlog may be updated based on that feedback.
